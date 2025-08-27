@@ -1,0 +1,20 @@
+{
+  "allowed_channels": [
+    {
+      "name": "Redop",
+      "username": "Redop"
+    },
+    {
+      "name": "Naruto Hindi",
+      "username": "NarutoHindi"
+    },
+    {
+      "name": "The Anime Hindi Dubbed",
+      "username": "TheAnimeHindiDubbed"
+    },
+    {
+      "name": "DY ANIME",
+      "username": "DY_ANIME"
+    }
+  ]
+}
